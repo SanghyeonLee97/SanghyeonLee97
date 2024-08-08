@@ -23,5 +23,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanghyeonlee97&show_icons=true&locale=en" alt="sanghyeonlee97" />
 </p>
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SanghyeonLee97&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SanghyeonLee97&hide_border=true" alt="GitHub Streak" />
 </p>
