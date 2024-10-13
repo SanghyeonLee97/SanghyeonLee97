@@ -10,17 +10,16 @@
 - 📫 How to reach me **ledlee.97@gmail.com**
 
 ### 🛠️ **Projects**:
-
-- **Bulletin Board for Soccer Fans**  
-  *Period*: November 2023 ~ December 2023  
+- [**Bulletin Board for Soccer Fans**](https://github.com/SanghyeonLee97/First-Guestbook-Project)
+  (November 2023 ~ December 2023)  
   A web-based bulletin board system for soccer fans to discuss and share their thoughts.
 
-- **Dangdang Shopping Mall (Pet Shopping Mall)**  
-  *Period*: May 13, 2024 ~ July 5, 2024  
+- [**Dangdang Shopping Mall (Pet Shopping Mall)**](https://github.com/SanghyeonLee97/202405_SemiProject)
+  (May 13, 2024 ~ July 5, 2024)  
   An e-commerce platform dedicated to pet products, providing a user-friendly shopping experience for pet owners.
 
-- **Café in Hongdae (Customized Café Recommendation Web Service in Hongdae)**  
-  *Period*: August 20, 2024 ~ September 23, 2024  
+- [**Café in Hongdae (Customized Café Recommendation Web Service in Hongdae)**](https://github.com/SanghyeonLee97/202408_MainProject_SC)
+  (August 20, 2024 ~ September 23, 2024)  
   A personalized web service recommending cafés in the Hongdae area based on user preferences.
 
 <p align="left">
