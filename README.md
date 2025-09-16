@@ -1,7 +1,8 @@
-<h1 align="left">Hi 👋, I'm Sanghyeon Lee, <br>An Aspiring Developer on a Journey to Turn Dreams into Reality</h1>
-<h3 align="left">Dedicated to Learning, Growing, and Embracing New Challenges.</h3>
+<h1 align="left">Hi 👋, I'm Sanghyeon Lee</h1>
+<h3 align="left">🚀 Aspiring Developer | Always Learning & Building</h3>
 
-- 🌱 I’m currently learning **JAVA, Spring(Spring Boot), Python, ML, etc.**
+- 🌱 Currently diving into **Spring Boot, React, and Docker**  
+- 📖 Exploring **Python for Data & ML** in parallel
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanghyeonLee97](https://github.com/SanghyeonLee97)
 
@@ -11,7 +12,7 @@
 
 ### 🛠️ **Projects**:
 - [**Bulletin Board for Soccer Fans**](https://github.com/SanghyeonLee97/First-Guestbook-Project)
-  (November 2023 ~ December 2023)  
+  (Nov 2023 ~ Dec 2023)
   A web-based bulletin board system for soccer fans to discuss and share their thoughts.
 
 - [**Dangdang Shopping Mall (Pet Shopping Mall)**](https://github.com/SanghyeonLee97/202405_SemiProject)
@@ -43,11 +44,11 @@
   - 📬 Postman
   - 🐙 GitHub
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanghyeonlee97&show_icons=true&locale=en&layout=compact" alt="sanghyeonlee97" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanghyeonlee97&show_icons=true&locale=en" alt="sanghyeonlee97" />
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanghyeonlee97&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanghyeonlee97&layout=compact" alt="Top Languages" height="150"/>
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SanghyeonLee97&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SanghyeonLee97&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
